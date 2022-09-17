@@ -22,8 +22,7 @@
 </div>
 <br/>
 
-Esse é um microsite de previsão do tempo construído com `React`, seguindo as diretivas do Desafio Charlie da Hurb, que automaticamente pega a localização do usuário
-e exibe a condição atual do tempo e a previsão para os próximos dois dias na localidade através da API da `OpenWeather`. Além disso, é possível verificar a previsão de outros lugares do mundo usando a 
+Esse é um microsite de previsão do tempo construído com `React`, que automaticamente pega a localização do usuário e exibe a condição atual do tempo e a previsão para os próximos dois dias na localidade através da API da `OpenWeather`. Além disso, é possível verificar a previsão de outros lugares do mundo usando a 
 barra de pesquisa.
 
 ---
