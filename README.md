@@ -1,4 +1,4 @@
-# Challenge Charlie
+# Forecasty
 
 <h3 align="center"> ☁️ Previsão do tempo dinâmica e com um visual agradável ☁️ </h3>
 
